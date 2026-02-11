@@ -1,5 +1,25 @@
 # Awesome TypeScript
 
+## 🗄️ Archival Note
+
+<details>
+  <summary><strong>Summary (2026)</strong> - Why this list is archived</summary>
+<hr/>
+I started awesome-typescript 11 years ago, when TypeScript was still taking shape and far from the default choice it is today. Back then, collecting and curating resources mattered. It helped early adopters find solid material, share hard-won lessons, and build a community around a tool that many developers underestimated.
+
+Over the years I had plenty of debates about TypeScript's future (especially around 2016 to 2018). I believed it would become a cornerstone of modern development. Today, it is hard not to see that outcome as real. TypeScript is now the de facto language for front-end development, and it shows up everywhere: applications, SDKs, examples, and projects that are only loosely related still ship TypeScript code.
+
+That success creates a new problem for this list. When almost every project uses TypeScript, accepting every possible addition stops being curation and turns into unbounded maintenance. Community contributions have slowed, the signal-to-noise ratio has shifted, and continuing to expand the list no longer serves the original purpose.
+
+Rather than keep maintaining something that cannot reflect a meaningful, curated set of best resources in the current landscape, I am archiving awesome-typescript and preserving it as a historical reference.
+
+Thank you to everyone who contributed, whether by submitting pull requests, suggesting resources, or sharing feedback. Your help made this list useful when it mattered most, and it helped bring together the early TypeScript community.
+<br/><hr />
+
+</details>
+
+<hr />
+
 #### -= Awesome TypeScript =- [Awesome Elasticsearch](https://github.com/dzharii/awesome-elasticsearch) →
 
 > A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists.
